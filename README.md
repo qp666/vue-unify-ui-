@@ -1,4 +1,3 @@
-```markdown
 # vue-unify-ui  
 > **One Design, Everywhere.**  
 > **一套设计，统治所有 Vue & uni-app 场景。**
